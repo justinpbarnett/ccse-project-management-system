@@ -2,37 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f64597dd-a283-412f-ab7b-7bc055362526" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/portfolio/Dashboard.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/Delete-This-Project-Button.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/Insert-New-Question-Button.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/Project-View-Page-2.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/Project-View-Page.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/Updated-Questions-Display.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/Upload-Documents-Section.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/alicia.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/henry.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/jordan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/justin.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/stephen.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/team/tanner.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/AddMembersCapture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/ProjectQuestionsCapture.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/agency.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/01-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/01-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/02-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/02-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/03-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/03-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/04-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/04-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/05-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/05-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/06-full.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/portfolio/06-thumbnail.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/team/3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,6 +33,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\justi\source\repos\KSU\Capstone\CCSEGithubInfoWebsite\img" />
+    </key>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -72,7 +50,9 @@
       <updated>1585072212065</updated>
       <workItem from="1585072213895" duration="3459000" />
       <workItem from="1585368670427" duration="10000" />
-      <workItem from="1586968364033" duration="5059000" />
+      <workItem from="1586968364033" duration="7963000" />
+      <workItem from="1587052066964" duration="504000" />
+      <workItem from="1587056433247" duration="3596000" />
     </task>
     <servers />
   </component>
