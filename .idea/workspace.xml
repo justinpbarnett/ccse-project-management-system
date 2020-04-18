@@ -2,10 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f64597dd-a283-412f-ab7b-7bc055362526" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/img/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/AddMembersCapture.PNG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/portfolio/ProjectQuestionsCapture.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/1.1 Login.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/2.1 Dashboard.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/3.1 Projects.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/3.2.1 View Project (Top).PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/3.2.2 View Project (Bottom).PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/3.2.3 Save or Print Project.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/3.3.1 Edit Project - Description.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/3.3.2.1 Edit Project - Questions (Top).PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/3.3.2.2 Edit Project - Questions (Middle).PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/3.3.2.3 Edit Project - Questions (Bottom).PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/3.3.3 Edit Project - Documents.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/3.3.4 Edit Project - Members.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/4.1 Forms.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/4.2.1 Edit Form (Top).PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/4.2.2 Edit Form (Middle).PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/4.2.3 Edit Form (Bottom).PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/5.1 Users.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/5.2 Edit User.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/5.3 Add User.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/6.1 FAQ.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/portfolio/6.2 FAQ Expanded.PNG" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/AddMembersCapture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/Dashboard.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/Delete-This-Project-Button.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/Insert-New-Question-Button.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/Project-View-Page-2.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/Project-View-Page.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/ProjectQuestionsCapture.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/Updated-Questions-Display.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/portfolio/Upload-Documents-Section.PNG" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,7 +57,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ProjectManagementSystem/frontend" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
@@ -52,7 +79,9 @@
       <workItem from="1585368670427" duration="10000" />
       <workItem from="1586968364033" duration="7963000" />
       <workItem from="1587052066964" duration="504000" />
-      <workItem from="1587056433247" duration="3596000" />
+      <workItem from="1587056433247" duration="4193000" />
+      <workItem from="1587078121247" duration="9000" />
+      <workItem from="1587228763850" duration="721000" />
     </task>
     <servers />
   </component>
@@ -63,9 +92,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="295" key="FileChooserDialogImpl" timestamp="1585368678717">
-      <screen x="0" y="0" width="1920" height="1080" />
+    <state x="-664" y="137" key="FileChooserDialogImpl" timestamp="1587229273402">
+      <screen x="-1080" y="-387" width="1080" height="1920" />
     </state>
+    <state x="-664" y="137" key="FileChooserDialogImpl/0.0.1920.1080/-1080.-387.1080.1920@-1080.-387.1080.1920" timestamp="1587229273402" />
     <state x="740" y="295" key="FileChooserDialogImpl/0.0.1920.1080/-1920.0.1920.1080@0.0.1920.1080" timestamp="1585368678717" />
     <state width="1899" height="261" key="GridCell.Tab.0.bottom" timestamp="1585076490024">
       <screen x="0" y="0" width="1920" height="1040" />
